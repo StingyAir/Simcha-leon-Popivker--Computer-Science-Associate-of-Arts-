@@ -1,3 +1,5 @@
 # Simcha-leon-Popivker--Computer-Science-Associate-of-Arts
 
 ### This is a description of the repository that is named after myself and my potential degree, with its purpose being to describe the repository
+
+### MyLogo.PNG Includes a photo of Simcha's Acrylic paint business Logo to be used in later assignments. Link to File: https://new.express.adobe.com/id/urn:aaid:sc:US:a6ee7ec8-5915-586b-832c-3333944d1908?invite=true&promoid=Z2G1FQKR&mv=other
