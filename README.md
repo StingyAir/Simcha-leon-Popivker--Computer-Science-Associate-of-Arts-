@@ -6,3 +6,5 @@
 ### PasswordLogic.PNG is a flowchart that indicates that if a user inputs the incorrect password three times, the flowchart will output an "account locked" message
 
 ### Python.PNG represents the addition of two variables to produce and print a third variable.
+
+### SimchaFlowerClass.pdf is a file representing a blank class sheet for flowers
