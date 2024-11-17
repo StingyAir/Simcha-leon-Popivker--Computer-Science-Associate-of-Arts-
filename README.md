@@ -4,3 +4,5 @@
 
 ### MyLogo.PNG Includes a photo of Simcha's Acrylic paint business Logo to be used in later assignments. Link to File: https://new.express.adobe.com/id/urn:aaid:sc:US:a6ee7ec8-5915-586b-832c-3333944d1908?invite=true&promoid=Z2G1FQKR&mv=other
 ### PasswordLogic.PNG is a flowchart that indicates that if a user inputs the incorrect password three times, the flowchart will output an "account locked" message
+
+### Python.PNG represents the addition of two variables to produce and print a third variable.
