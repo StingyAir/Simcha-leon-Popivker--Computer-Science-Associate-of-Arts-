@@ -7,4 +7,8 @@
 
 ### Python.PNG represents the addition of two variables to produce and print a third variable.
 
-### SimchaFlowerClass.pdf is a file representing a blank class sheet for flowers
+### SimchaFlowerClass.pdf is a file representing a blank class sheet for flowers.
+
+### The PythonOOP(1).png and PythonOOP(2).png files represent different flowers within the flower class and some things that happen to the objects, which also contains comments on each of the code lines.
+
+### Flower.py is a copy of PythonOOP(1).png, but in a python file
