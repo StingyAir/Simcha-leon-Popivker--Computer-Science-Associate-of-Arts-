@@ -12,3 +12,5 @@
 ### The PythonOOP(1).png and PythonOOP(2).png files represent different flowers within the flower class and some things that happen to the objects, which also contains comments on each of the code lines.
 
 ### Flower.py is a copy of PythonOOP(1).png, but in a python file
+
+### NetworkDesign.png is a file displaying an image of how a network might be set up, with the inclusion of two computers a router and a printer.
