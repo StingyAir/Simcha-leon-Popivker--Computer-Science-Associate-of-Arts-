@@ -14,3 +14,5 @@
 ### Flower.py is a copy of PythonOOP(1).png, but in a python file
 
 ### NetworkDesign.png is a file displaying an image of how a network might be set up, with the inclusion of two computers a router and a printer.
+
+### SQLQuery.png is a file sorting and limiting the results of an sql index to show information requested by a manager
